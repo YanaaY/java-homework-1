@@ -19,12 +19,12 @@ https://github.com/YanaaY/java-homework-1/issues/1#issue-1107028962
 переменная для хранения итогового значения - тип int
 
 
-### В качестве тестовых данных использовались данные:
+В качестве тестовых данных использовались данные:
 https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
 
 
-### Тестирование производилось в следующем окружении:
+Тестирование производилось в следующем окружении:
 
-ОС: Windows 10, x64
+<ОС: Windows 10, x64>
 IDE:IntelliJ IDEA 2021.3 (Community Edition)
 Java: OpenJDK 11
